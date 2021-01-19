@@ -1,0 +1,100 @@
+body {
+    background-color: #fff;
+}
+
+#top-section {
+    display: grid;
+    grid-template-columns: 5% 45% 50%;
+    background-color: #fff;
+    position: relative;
+}
+
+#bottom-arrow {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -50px;
+}
+
+#bottom-arrow-left {
+    position: absolute;
+    bottom: 0;
+}
+
+#get-in-touch {
+    padding-left: 50px;
+    padding-right: 15px;
+}
+
+#left-container {
+    background-color: #fff;
+    height: 100vh;
+}
+
+#e-mail {
+    font-family:'Montserrat', sans-serif;    
+    font-size: 14px;
+    padding-top: 50px;
+    color: rgba(0, 0, 0, 70%);
+}
+
+#right-container {
+    background-image: url('Desktop\ -\ 1Bilde-portfolio.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+h1 {
+    font-family:'Kumar One';
+    font-size: 50px;
+    padding-left: 230px;
+    padding-top: 50px;
+    width: 403px;
+    line-height: 147.9%;
+}
+
+p {
+    font-family:'Montserrat', sans-serif;    
+    font-size: 16px;
+    font-weight: 200;
+    padding-left: 230px;
+    width: 400px;
+    Line-height: 21px;
+    Line-height: 151%;
+    color: rgba(0, 0, 0, 70%);
+}
+
+#language-nav {
+    font-family:'Montserrat', sans-serif;    
+    font-size: 14px;
+    padding-top: 36px;
+    text-align: right;
+    padding-right: 151px;
+}
+
+#language-nav span {
+    padding-left: 27px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+#navigation {
+    font-family:'Montserrat', sans-serif;    
+    font-size: 10px;
+    color: rgba(255, 255, 255, 70%);
+}
+
+#navigation ul li {
+    padding-top: 45px;
+    font-size: 15px;
+}
+
+#social-nav  {
+    padding-top: 150px;
+}
